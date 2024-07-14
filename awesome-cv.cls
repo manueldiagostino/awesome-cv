@@ -463,8 +463,8 @@
     \setlength{\headertextwidth}{\textwidth}
     \setlength{\headerphotowidth}{0cm}
   }{%
-    \setlength{\headertextwidth}{0.76\textwidth}
-    \setlength{\headerphotowidth}{0.24\textwidth}
+    \setlength{\headertextwidth}{0.80\textwidth}
+    \setlength{\headerphotowidth}{0.20\textwidth}
   }%
   \begin{minipage}[c]{\headerphotowidth}%
     \ifthenelse{\equal{\@photoalign}{left}}{\raggedright\drawphoto}{}
@@ -677,7 +677,8 @@
 }
 
 \newcommand*{\cvtextentry}[1]{%
-  \vspace{-2.0mm}
+  % \vspace{-2.0mm}
+  \vspace{\acvSectionContentTopSkip}
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{0pt}
   \begin{tabular*}{\textwidth}{L{\textwidth}}
@@ -695,6 +696,34 @@
   \end{tabular*}%
 }
 
+
+% Definizione del comando \cvbadge
+\usepackage{tcolorbox}
+\usepackage{pgffor}
+\usepackage{enumitem}
+
+\newcommand{\badgestyle}[1]{\tiny\textit{#1}}
+
+\newtcolorbox{cvbadgebox}[1][]{colback=blue!5!white, colframe=blue!75!black, 
+    width=1cm, height=0.6cm, arc=3mm, boxrule=0.4mm, fonttitle=\bfseries, 
+    coltitle=black, enhanced, left=2pt, right=2pt, top=2pt, bottom=2pt, 
+		box align=base, valign=center, halign=center}
+
+\newcommand{\cvbadge}[1]{%
+  \begin{minipage}{1.2cm}
+    \begin{cvbadgebox}
+      \centering
+      \badgestyle{#1}
+    \end{cvbadgebox}
+  \end{minipage}
+}
+
+% Definizione del comando per creare badge da una lista
+\newcommand{\cvbadgesfromlist}[1]{%
+    \foreach \badge in {#1} {
+     \cvbadge{\badge} \hspace{0cm} 
+    }
+}
 
 % Define an environment for cvsubentry
 \newenvironment{cvsubentries}{%

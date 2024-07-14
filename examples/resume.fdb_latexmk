@@ -1,17 +1,15 @@
 # Fdb version 4
-["xdvipdfmx"] 1720979320.21432 "cv.xdv" "cv.pdf" "cv" 1720979320.815 0
-  "cv.xdv" 1720979320.10021 32384 9a40c1f1f4aae18878fcabf903968a7f "xelatex"
+["xdvipdfmx"] 1720978828.19343 "resume.xdv" "resume.pdf" "resume" 1720978828.85642 0
+  "resume.xdv" 1720978827.99351 106360 860503c77f065c1b4ee329255015c77e "xelatex"
   (generated)
-  "cv.pdf"
+  "resume.pdf"
   (rewritten before read)
-["xelatex"] 1720979316.06696 "cv.tex" "cv.xdv" "cv" 1720979320.8091 0
+["xelatex"] 1720978823.80296 "resume.tex" "resume.xdv" "resume" 1720978828.85085 0
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm" 1136768653 1508 3b32edd0d68f6498a5a375e78f9edc5e ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm" 1136768653 1528 e2423ae06dc7dee599cceb79d1c9dc32 ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm" 1136768653 1524 d89e2d087a9828407a196f428428ef4a ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -161,7 +159,6 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex" 1691524336 10931 717eb52299f416934beb8b2b7cd8cee6 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty" 1698869629 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty" 1698869629 10214 547fd4d29642cb7c80bf54b49d447f01 ""
-  "/usr/local/texlive/2024/texmf-dist/tex/latex/tools/enumerate.sty" 1698869629 3468 0ef513f22d965f96b06adb5cff671cd7 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty" 1700689882 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/trimspaces/trimspaces.sty" 1253232110 1380 971a51b00a14503ddf754cab24c3f209 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex" 1691956686 241443 1a7594ad34b6e3e9ee4c5855f2c3ee83 ""
@@ -174,17 +171,16 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1710714342 41663 c82a74d8036de408d74af2c8ae75c7e5 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1711560874 10850841 a5521d11ee388bf6bc4de9766a084120 ""
   "/usr/local/texlive/2024/texmf.cnf" 1709034754.98402 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "awesome-cv.cls" 1720979314.30688 31208 e5db3808fe580d41a875107645722f29 ""
-  "cv.aux" 1720979320.09688 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
-  "cv.tex" 1720978938.38019 3808 8c174538fa5f650e213f87190b009437 ""
-  "cv/conferences.tex" 1720959585.45141 270 5fcc000abad1384f57999800558cd4d1 ""
-  "cv/education.tex" 1720977536.32677 1817 a672a8380d8ef03f0bc163c4bd190325 ""
-  "cv/experience.tex" 1720979213.84687 1083 cf74788ee5158b8edd50f179d64f3e96 ""
-  "cv/interests.tex" 1720978777.61018 475 80ba2729ecf14c2f0dd3642def65eb47 ""
-  "cv/tools.tex" 1720958883.77803 436 f148ca01de5791eecfbb5ed59b624c6c ""
-  "profile.jpg" 1720953696.37771 143779 affa655a049ad74c6db1b652ff1cfe74 ""
+  "awesome-cv.cls" 1720977876.78679 31169 106cbc753f25a7a7b17b8fe638f6b2c4 ""
+  "resume.aux" 1720978827.99018 72 e3975f61bf3f389acae1a5409d20f2c6 "xelatex"
+  "resume.tex" 1720949953.84082 3766 592cae95cd2c4bbaacc7bf61c6bcd1c4 ""
+  "resume/certificates.tex" 1720949953.84082 1937 7b60f8494740a075f03c32ede2c0ac44 ""
+  "resume/education.tex" 1720949953.84082 921 579c56d0fa74eddd83f242c106d227f6 ""
+  "resume/experience.tex" 1720949953.84082 8565 15ac4b4e06cdf9460e193e72ab02684c ""
+  "resume/honors.tex" 1720949953.84082 4433 259d36e28b0c778f43cc5600c05cae7a ""
+  "resume/summary.tex" 1720949953.84082 1255 e440719428e817ec4260921d40ecade8 ""
   (generated)
-  "cv.aux"
-  "cv.log"
-  "cv.xdv"
+  "resume.aux"
+  "resume.log"
+  "resume.xdv"
   (rewritten before read)
