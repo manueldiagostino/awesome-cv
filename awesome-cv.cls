@@ -677,11 +677,10 @@
 }
 
 \newcommand*{\cvtextentry}[1]{%
-  % \vspace{-2.0mm}
-  \vspace{\acvSectionContentTopSkip}
+  \vspace{-2.0mm}
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{0pt}
-  \begin{tabular*}{\textwidth}{L{\textwidth}}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
     \multicolumn{1}{L{\textwidth}}{\descriptionstyle{#1}} \\
   \end{tabular*}%
 }
