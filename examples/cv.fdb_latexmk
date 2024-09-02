@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1725284818.96858 "cv.xdv" "cv.pdf" "cv" 1725284819.62341 0
-  "cv.xdv" 1725284818.84661 39428 60b337947cd85ef652efb1fb91a64163 "xelatex"
+["xdvipdfmx"] 1725285281.99471 "cv.xdv" "cv.pdf" "cv" 1725285282.6406 0
+  "cv.xdv" 1725285281.87664 39676 3794d279e092a1eb77d3d83ab0c70de0 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1725284814.60396 "cv.tex" "cv.xdv" "cv" 1725284819.61612 0
+["xelatex"] 1725285277.67641 "cv.tex" "cv.xdv" "cv" 1725285282.6342 0
   "/home/manuel/texmf/tex/generic/babel-italian/italian.ldf" 1704400413 11324 231db2406347b14c88e42443ebaa8d26 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -183,14 +183,14 @@
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1711560874 10850841 a5521d11ee388bf6bc4de9766a084120 ""
   "/usr/local/texlive/2024/texmf.cnf" 1709034754.98402 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "awesome-cv.cls" 1725284813.25328 31209 f92d2dda1ed74866500a41190530ab23 ""
-  "cv.aux" 1725284818.84328 174 52dd520d047622ca6ea68e1a661935b6 "xelatex"
-  "cv.tex" 1725283627.65654 3885 51da8322243892a2aacd136d68bd945a ""
+  "cv.aux" 1725285281.87331 174 52dd520d047622ca6ea68e1a661935b6 "xelatex"
+  "cv.tex" 1725285277.00664 3886 420a5c5bd6495a4add50714852523f13 ""
   "cv/conferences.tex" 1725283173.19318 285 bded740d933e0a82f7ad192c252a2051 ""
-  "cv/education.tex" 1725283796.26988 1855 bb157266385cd3f5bc918e37d601c20e ""
-  "cv/experiences.tex" 1725283047.0065 1108 c09d82767a6fd8641417503a87813220 ""
-  "cv/grants.tex" 1725283227.45985 909 1d0091638cb075efb0fcc1b5947ece92 ""
+  "cv/education.tex" 1725285216.45664 1871 da8cf63028e48fe0c8d619275893d988 ""
+  "cv/experiences.tex" 1725285064.57996 1114 99bea61da427defed3eb439e922e3762 ""
+  "cv/grants.tex" 1725285093.74663 912 1c69704fd2c4ea25a4a9c4db22bb4606 ""
   "cv/interests.tex" 1725284785.92328 656 24d1994db31c5c2b2e72d9fb854768e4 ""
-  "cv/tools.tex" 1725283058.2265 481 e75ed8f54aff66d36bcabf6c820af4db ""
+  "cv/tools.tex" 1725285098.36996 481 62cea026fdb701ff11e51cfb04ccd9eb ""
   (generated)
   "cv.aux"
   "cv.log"
