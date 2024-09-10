@@ -1,0 +1,11 @@
+name: Copy files to another repository
+uses: nkoppel/push-files-to-another-repository@v1.1.3
+env:
+  API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+with:
+  source-files: '../../examples/cv.pdf'
+  destination-username: 'manueldiagostino'
+  destination-repository: 'manueldiagostino.github.io'
+  destination-branch: 'master'
+  destination-directory: 'files/'
+  commit-email: 'diagostinomanuel@gmail.com'
