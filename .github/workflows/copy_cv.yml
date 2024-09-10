@@ -1,11 +1,22 @@
-- name: Copy files to another repository
-  uses: nkoppel/push-files-to-another-repository@v1.1.3
-  env:
-    API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-  with:
-    source-files: '../../examples/cv.pdf'
-    destination-username: 'manueldiagostino'
-    destination-repository: 'manueldiagostino.github.io'
-    destination-branch: 'master'
-    destination-directory: 'files/'
-    commit-email: 'diagostinomanuel@gmail.com'
+name: Push File
+
+on: push
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes test file
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: '../../examples/cv.pdf'
+        destination_repo: 'manueldiagostino/manueldiagostino.github.io'
+        destination_folder: 'files'
+        user_email: 'diagostinomanuel@gmail.com'
+        user_name: 'manueldiagostino'
+        commit_message: 'Automatic update of files/cv.pdf'
