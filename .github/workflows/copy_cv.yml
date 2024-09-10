@@ -20,3 +20,4 @@ jobs:
         user_email: 'diagostinomanuel@gmail.com'
         user_name: 'manueldiagostino'
         commit_message: 'Automatic update of files/cv.pdf'
+        destination_branch: 'master'
