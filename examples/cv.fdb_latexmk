@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1725959017.06875 "cv.xdv" "cv.pdf" "cv" 1725959017.93399 0
-  "cv.xdv" 1725959016.93643 41704 d4de612330262f9509b280f4387d2216 "xelatex"
+["xdvipdfmx"] 1729411274.14998 "cv.xdv" "cv.pdf" "cv" 1729411274.94876 0
+  "cv.xdv" 1729411274.00585 50712 7fca644c4955b47d7fd63004dd875762 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1725959012.51254 "cv.tex" "cv.xdv" "cv" 1725959017.92456 0
+["xelatex"] 1729411269.15681 "cv.tex" "cv.xdv" "cv" 1729411274.94242 0
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -174,16 +174,16 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1710714342 41663 c82a74d8036de408d74af2c8ae75c7e5 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1711560874 10850841 a5521d11ee388bf6bc4de9766a084120 ""
   "/usr/local/texlive/2024/texmf.cnf" 1709034754.98402 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "awesome-cv.cls" 1725958667.08646 31209 f92d2dda1ed74866500a41190530ab23 ""
-  "cv.aux" 1725959016.93643 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
-  "cv.tex" 1725958553.0098 3831 61a5c13b12378471b2ee3aeccce5e24a ""
-  "cv/conferences.tex" 1725959012.04643 396 207f8666914c01104c8a5b52df041e6d ""
-  "cv/education.tex" 1725958553.01647 1851 16f8c127ea07ae2970a78f712f6902bc ""
-  "cv/experiences.tex" 1725958553.01647 1084 bc752a37effd082e5a0b5ea3a9d90394 ""
-  "cv/grants.tex" 1725958553.01647 855 efa8da5358509cb841e40c8d9fa738d8 ""
-  "cv/interests.tex" 1725958664.73646 509 dbeb4b4ecb4c694c05cc50047134685a ""
-  "cv/tools.tex" 1725958553.01647 436 f148ca01de5791eecfbb5ed59b624c6c ""
-  "profile.jpg" 1720953696.37771 143779 affa655a049ad74c6db1b652ff1cfe74 ""
+  "awesome-cv.cls" 1729410981.6925 31209 f92d2dda1ed74866500a41190530ab23 ""
+  "cv.aux" 1729411274.00251 72 8c65bdc4d59188fb5b97343f16100895 "xelatex"
+  "cv.tex" 1729411267.62251 3840 d2a3ecfa70f47723d36a3f38d3e7caca ""
+  "cv/conferences.tex" 1729407512.03562 396 207f8666914c01104c8a5b52df041e6d ""
+  "cv/education.tex" 1729407512.03562 1851 16f8c127ea07ae2970a78f712f6902bc ""
+  "cv/experiences.tex" 1729410618.85247 1926 8d3a115a5ee82997ec48a996f34b664c ""
+  "cv/grants.tex" 1729411100.72584 856 397269a2aaed96b37fa76258da2dadb1 ""
+  "cv/interests.tex" 1729407512.03895 509 dbeb4b4ecb4c694c05cc50047134685a ""
+  "cv/tools.tex" 1729411096.49917 437 8f3bc95e44c0ea962d9daea22390c568 ""
+  "profile.jpg" 1729407512.28562 143779 affa655a049ad74c6db1b652ff1cfe74 ""
   (generated)
   "cv.aux"
   "cv.log"
