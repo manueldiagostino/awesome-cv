@@ -8,7 +8,6 @@ on:
 jobs:
   copy-cv:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout source repo
         uses: actions/checkout@v3
@@ -24,5 +23,5 @@ jobs:
           cp example/cv.pdf target-repo/public/cv.pdf
           cd target-repo
           git add public/cv.pdf
-          git diff --cached --quiet || git commit -m "Updated CV from awesome-cv."
+          git diff --cached --quiet || git commit -m "Aggiorna cv.pdf da awesome-cv"
           git push
