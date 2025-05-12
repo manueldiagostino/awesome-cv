@@ -17,7 +17,7 @@ jobs:
     - name: Clone target repo
       run: |
         git clone https://x-access-token:${{ secrets.TARGET_REPO_TOKEN }}@github.com/manueldiagostino/academic-site.git target-repo
-        cp example/cv.pdf target-repo/public/cv.pdf
+        cp awesome-cv/example/cv.pdf target-repo/public/cv.pdf
         cd target-repo
         git add public/cv.pdf
         git diff --cached --quiet || git commit -m "Aggiorna cv.pdf da awesome-cv"
