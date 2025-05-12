@@ -1,0 +1,28 @@
+name: Sync CV to Academic Site
+
+on:
+  push:
+    paths:
+      - "example/cv.pdf"
+
+jobs:
+  copy-cv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v3
+
+      - name: Set up Git identity
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+      - name: Clone target repo
+        run: |
+          git clone https://x-access-token:${{ secrets.TARGET_REPO_TOKEN }}@github.com/manueldiagostino/academic-site.git target-repo
+          cp example/cv.pdf target-repo/public/cv.pdf
+          cd target-repo
+          git add public/cv.pdf
+          git diff --cached --quiet || git commit -m "Updated CV from awesome-cv."
+          git push
