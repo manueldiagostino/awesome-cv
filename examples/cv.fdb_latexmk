@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1754555900.06076 "cv.xdv" "cv.pdf" "cv" 1754555900.96335 0
-  "cv.xdv" 1754555899.92657 63328 23d9b687d78e608da873adfc734bce90 "xelatex"
+["xdvipdfmx"] 1754558875.31122 "cv.xdv" "cv.pdf" "cv" 1754558876.00658 0
+  "cv.xdv" 1754558875.20437 64472 7e3164d7d2d70d7cf5550489f2f3a5b3 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1754555895.27106 "cv.tex" "cv.xdv" "cv" 1754555900.95661 0
+["xelatex"] 1754558870.78662 "cv.tex" "cv.xdv" "cv" 1754558876.001 0
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -174,9 +174,9 @@
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1740574544 5905731 cf6611fedc506350ab0cfbec12ce1e79 ""
   "/usr/local/texlive/2024/texmf.cnf" 1709034754.98402 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "awesome-cv.cls" 1747029386.17915 31173 344cb2ce1bbd7f08aa26f0b28a2099c2 ""
-  "cv.aux" 1754555899.92404 72 8c65bdc4d59188fb5b97343f16100895 "xelatex"
+  "cv.aux" 1754558875.202 72 8c65bdc4d59188fb5b97343f16100895 "xelatex"
   "cv.tex" 1754555894.24433 3830 6bf1b81fc3fc895c27bce7925683800d ""
-  "cv/conferences.tex" 1729407512.03562 396 207f8666914c01104c8a5b52df041e6d ""
+  "cv/conferences.tex" 1754558869.45947 534 b0c0edb764789b585d4e214ccb707611 ""
   "cv/education.tex" 1747029513.40672 2009 5ec9daec83a54f1c7c229ec24a1bf4a0 ""
   "cv/experiences.tex" 1747028289.98797 2745 a4ba8adedf74670c53decbceee103cb1 ""
   "cv/grants.tex" 1729411100.72584 856 397269a2aaed96b37fa76258da2dadb1 ""
