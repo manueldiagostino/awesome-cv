@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1747029519.45471 "cv.xdv" "cv.pdf" "cv" 1747029520.18587 0
-  "cv.xdv" 1747029519.35196 57616 2867aedd5314fd52fdbb076f324abc35 "xelatex"
+["xdvipdfmx"] 1754555900.06076 "cv.xdv" "cv.pdf" "cv" 1754555900.96335 0
+  "cv.xdv" 1754555899.92657 63328 23d9b687d78e608da873adfc734bce90 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1747029515.12702 "cv.tex" "cv.xdv" "cv" 1747029520.17944 0
+["xelatex"] 1754555895.27106 "cv.tex" "cv.xdv" "cv" 1754555900.95661 0
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -174,14 +174,14 @@
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1740574544 5905731 cf6611fedc506350ab0cfbec12ce1e79 ""
   "/usr/local/texlive/2024/texmf.cnf" 1709034754.98402 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "awesome-cv.cls" 1747029386.17915 31173 344cb2ce1bbd7f08aa26f0b28a2099c2 ""
-  "cv.aux" 1747029519.35043 72 8c65bdc4d59188fb5b97343f16100895 "xelatex"
-  "cv.tex" 1747028360.6797 3831 61a5c13b12378471b2ee3aeccce5e24a ""
+  "cv.aux" 1754555899.92404 72 8c65bdc4d59188fb5b97343f16100895 "xelatex"
+  "cv.tex" 1754555894.24433 3830 6bf1b81fc3fc895c27bce7925683800d ""
   "cv/conferences.tex" 1729407512.03562 396 207f8666914c01104c8a5b52df041e6d ""
   "cv/education.tex" 1747029513.40672 2009 5ec9daec83a54f1c7c229ec24a1bf4a0 ""
   "cv/experiences.tex" 1747028289.98797 2745 a4ba8adedf74670c53decbceee103cb1 ""
   "cv/grants.tex" 1729411100.72584 856 397269a2aaed96b37fa76258da2dadb1 ""
   "cv/interests.tex" 1729407512.03895 509 dbeb4b4ecb4c694c05cc50047134685a ""
-  "cv/tools.tex" 1729411096.49917 437 8f3bc95e44c0ea962d9daea22390c568 ""
+  "cv/tools.tex" 1754555865.08704 1222 7dc9d72e8ced280bf2e85acc82f6fbaa ""
   "profile.jpg" 1729407512.28562 143779 affa655a049ad74c6db1b652ff1cfe74 ""
   (generated)
   "cv.aux"
