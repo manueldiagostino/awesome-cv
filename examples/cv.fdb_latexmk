@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1762951921.81249 "cv.xdv" "cv.pdf" "cv" 1762951922.57913 0
-  "cv.xdv" 1762951921.67786 67204 9e451a31d30c5a35568ce45625383530 "xelatex"
+["xdvipdfmx"] 1776348493.56407 "cv.xdv" "cv.pdf" "cv" 1776348494.02814 0
+  "cv.xdv" 1776348493.46444 81344 4109be548b787a23f2ac51cfad44ff60 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1762951917.29157 "cv.tex" "cv.xdv" "cv" 1762951922.5726 0
+["xelatex"] 1776348490.44316 "cv.tex" "cv.xdv" "cv" 1776348494.02549 0
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -170,15 +170,15 @@
   "/usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1758737289 5911854 1bbf71cd1edb91222565fe2c912f5a2c ""
   "/usr/local/texlive/2025/texmf.cnf" 1758737096.59312 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "awesome-cv.cls" 1762951081.09425 31173 344cb2ce1bbd7f08aa26f0b28a2099c2 ""
-  "cv.aux" 1762951921.67682 72 8c65bdc4d59188fb5b97343f16100895 "xelatex"
-  "cv.tex" 1762951320.82306 3830 6bf1b81fc3fc895c27bce7925683800d ""
+  "cv.aux" 1776348493.46234 72 8c65bdc4d59188fb5b97343f16100895 "xelatex"
+  "cv.tex" 1776348308.98601 3824 cd63d459ce6dfedece25055daa1b3e9d ""
   "cv/conferences.tex" 1762951081.11387 534 b0c0edb764789b585d4e214ccb707611 ""
   "cv/education.tex" 1762951081.11387 2009 5ec9daec83a54f1c7c229ec24a1bf4a0 ""
-  "cv/experiences.tex" 1762951734.3435 2774 a9c3d963d7301c350b151c46b4f94d33 ""
+  "cv/experiences.tex" 1776348280.52265 3715 93a852a0e479dcfb4aa94f5f46728ef0 ""
   "cv/grants.tex" 1762951081.11387 856 397269a2aaed96b37fa76258da2dadb1 ""
   "cv/interests.tex" 1762951916.62783 656 53d0ce86715aec2f96fb5c20add41fd2 ""
-  "cv/tools.tex" 1762951081.11425 1222 7dc9d72e8ced280bf2e85acc82f6fbaa ""
-  "profile.jpg" 1762951081.26325 143779 affa655a049ad74c6db1b652ff1cfe74 ""
+  "cv/tools.tex" 1776348489.49229 1841 214b2719ca45a85c0ab14406528458c0 ""
+  "images/cv-2.jpg" 1776347589.21895 152501 7cd5ed99f6644279c9c7849dc336ec13 ""
   (generated)
   "cv.aux"
   "cv.log"

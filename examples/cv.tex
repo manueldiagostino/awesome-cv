@@ -13,7 +13,6 @@
 % CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 %
 
-
 %-------------------------------------------------------------------------------
 % CONFIGURATIONS
 %-------------------------------------------------------------------------------
@@ -25,7 +24,8 @@
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
 
 % Color for highlights
-% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red,
+% awesome-pink, awesome-orange
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
 \colorlet{awesome}{awesome-concrete}
 % Uncomment if you would like to specify your own color
@@ -42,16 +42,16 @@
 % Set false if you don't want to highlight section with awesome color
 \setbool{acvSectionColorHighlight}{true}
 
-% If you would like to change the social information separator from a pipe (|) to something else
+% If you would like to change the social information separator from a
+% pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
 
-
 %-------------------------------------------------------------------------------
-%	PERSONAL INFORMATION
-%	Comment any of the lines below if they are not required
+%  PERSONAL INFORMATION
+%  Comment any of the lines below if they are not required
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
-\photo[circle,edge,left]{profile.jpg}
+\photo[circle,edge,left]{images/cv-2.jpg}
 \name{Manuel}{Di Agostino}
 \position{Master's Student in Computer Science}
 \address{Parma, 43121, Italy}
@@ -64,7 +64,7 @@
 \linkedin{manueldiagostino}
 % \gitlab{gitlab-id}
 % \stackoverflow{SO-id}{SO-name}
-\twitter{@manuel\_diag}
+% \twitter{@manuel\_diag}
 % \skype{skype-id}
 % \reddit{reddit-id}
 % \medium{medium-id}
@@ -77,7 +77,6 @@
 
 % \quote{''I have no special talent. I am only passionately curious."}
 
-
 %-------------------------------------------------------------------------------
 \begin{document}
 
@@ -88,19 +87,17 @@
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
 \makecvfooter
-  {\today}
-  {Manuel Di Agostino~~~·~~~Curriculum Vitae}
-  {\thepage}
-
+{\today}
+{Manuel Di Agostino~~~·~~~Curriculum Vitae}
+{\thepage}
 
 %-------------------------------------------------------------------------------
-%	CV/RESUME CONTENT
-%	Each section is imported separately, open each file in turn to modify content
+%  CV/RESUME CONTENT
+%  Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
 \input{cv/education.tex}
 \input{cv/interests.tex}
 \input{cv/experiences.tex}
-\newpage
 \input{cv/tools.tex}
 \input{cv/grants.tex}
 \input{cv/conferences.tex}
@@ -110,7 +107,6 @@
 % \input{cv/presentation.tex}
 % \input{cv/writing.tex}
 % \input{cv/committees.tex}
-
 
 %-------------------------------------------------------------------------------
 \end{document}
