@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1776376645.93529 "cv.xdv" "cv.pdf" "cv" 1776376646.573 0
-  "cv.xdv" 1776376645.76057 86496 9d43508b71888baf920e50b2938933e9 "xelatex"
+["xdvipdfmx"] 1777904297.14174 "cv.xdv" "cv.pdf" "cv" 1777904297.62827 0
+  "cv.xdv" 1777904297.01578 88720 0b80561eac1a9185a8afd5bc97a81401 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1776376642.13538 "cv.tex" "cv.xdv" "cv" 1776376646.5694 0
+["xelatex"] 1777904293.47721 "cv.tex" "cv.xdv" "cv" 1777904297.62555 0
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -170,13 +170,14 @@
   "/usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1758737289 5911854 1bbf71cd1edb91222565fe2c912f5a2c ""
   "/usr/local/texlive/2025/texmf.cnf" 1758737096.59312 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "awesome-cv.cls" 1762951081.09425 31173 344cb2ce1bbd7f08aa26f0b28a2099c2 ""
-  "cv.aux" 1776376645.75957 72 8c65bdc4d59188fb5b97343f16100895 "xelatex"
-  "cv.tex" 1776375784.10047 3848 d1a7bfd7361142927fb3594f55506d75 ""
+  "cv.aux" 1777904297.01478 72 8c65bdc4d59188fb5b97343f16100895 "xelatex"
+  "cv.tex" 1777904064.55876 3870 735fe6d7a0b0fcf6c3aa46d428ef88be ""
   "cv/conferences.tex" 1762951081.11387 534 b0c0edb764789b585d4e214ccb707611 ""
   "cv/education.tex" 1776376625.61033 2072 c58cda7203d4a1db4aa9ea3f29fab9bc ""
   "cv/experiences.tex" 1776375085.4057 1883 c293ba712ae023c8a20bc8ddfa0eab24 ""
   "cv/grants.tex" 1762951081.11387 856 397269a2aaed96b37fa76258da2dadb1 ""
   "cv/interests.tex" 1776375712.62954 702 3d400cc8024ff9c7f51dfa6c39fce5d6 ""
+  "cv/papers.tex" 1777904292.49878 512 f28a05bb91d9f54b754e13b254689ba4 ""
   "cv/teaching.tex" 1776376004.53139 2764 9b4bcd422e52c3edaa1ed0260af86a71 ""
   "cv/tools.tex" 1776348489.49229 1841 214b2719ca45a85c0ab14406528458c0 ""
   "images/cv-2.jpg" 1776347589.21895 152501 7cd5ed99f6644279c9c7849dc336ec13 ""
