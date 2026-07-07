@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1782383047.89032 "cv.xdv" "cv.pdf" "cv" 1782383048.05561 0
-  "cv.xdv" 1782383047.85935 94812 b5b6409e99acb11a8240cb4f82f05847 "xelatex"
+["xdvipdfmx"] 1783407942.59179 "cv.xdv" "cv.pdf" "cv" 1783407942.75996 0
+  "cv.xdv" 1783407942.56117 92208 cccbad531664952e1fc642886a81cd60 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1782383046.7532 "cv.tex" "cv.xdv" "cv" 1782383048.05471 0
+["xelatex"] 1783407941.32869 "cv.tex" "cv.xdv" "cv" 1783407942.75905 0
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -170,14 +170,13 @@
   "/usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1752181243 5896070 c2350081d8f0ae141dec1b60e6a8cee6 ""
   "/usr/local/texlive/2025/texmf.cnf" 1752181210.00367 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "awesome-cv.cls" 1752308399.47321 31173 344cb2ce1bbd7f08aa26f0b28a2099c2 ""
-  "cv.aux" 1782383047.85935 72 e3975f61bf3f389acae1a5409d20f2c6 "xelatex"
-  "cv.tex" 1781015921.05569 3870 735fe6d7a0b0fcf6c3aa46d428ef88be ""
+  "cv.aux" 1783407942.55917 72 e3975f61bf3f389acae1a5409d20f2c6 "xelatex"
+  "cv.tex" 1783407939.66275 3872 4a9b2df82a14d7214e38ada75840bf41 ""
   "cv/conferences.tex" 1781015957.43221 716 cd5395d8272618c374893b271559f00f ""
   "cv/education.tex" 1781015921.05669 1898 6fc4cea8b4a6f017feb6fe9b1fd3c387 ""
   "cv/experiences.tex" 1781015921.05669 1883 c293ba712ae023c8a20bc8ddfa0eab24 ""
   "cv/grants.tex" 1781015921.05669 901 e7d2cd12ff39dd336563c5c53117146d ""
   "cv/interests.tex" 1781015921.05669 702 3d400cc8024ff9c7f51dfa6c39fce5d6 ""
-  "cv/papers.tex" 1782383044.98737 475 fdd18456221b525820d2e5fd30a05b82 ""
   "cv/teaching.tex" 1781015921.05669 2764 9b4bcd422e52c3edaa1ed0260af86a71 ""
   "cv/tools.tex" 1781015921.05669 1841 214b2719ca45a85c0ab14406528458c0 ""
   "images/cv-2.jpg" 1781015921.05669 152501 7cd5ed99f6644279c9c7849dc336ec13 ""
