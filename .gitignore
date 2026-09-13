@@ -12,6 +12,13 @@
 *.dvi
 *-converted-to.*
 
+## Latexmk / synctex / xdv artifacts:
+*.fdb_latexmk
+*.synctex.gz
+
+## XeLaTeX auxiliary files:
+*.xdv
+
 ### Editor ###
 ## Vim & Emacs temp files:
 .*sw[op]
